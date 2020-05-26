@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Login Aplication</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="previous">Previous</string>
+    <string name="Login">Login</string>
+    <string name="Welcome">Welcome, Please Login to Continue</string>
+    <string name="Welcome2">Welcome back Jasmin Martinez!</string>
+    <string name="NacimientoJM">Birthdate: December 4th 2000</string>
+    <string name="UserInstagramJM">Instagram User: jazmin_mg04</string>
+    <string name="Back">Back to Login</string>
+    <string name="Welcome3">Welcome back José Matos!</string>
+    <string name="NacimientoJoseM">Birthdate: August 22 1997</string>
+    <string name="UserInstagramJoseM">Instagram User: josearistidesff</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
